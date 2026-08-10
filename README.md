@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Connor
 
-🎓 Computer Science Student
-
-📊 Aspiring **Data Engineer** | **Data Analyst** | **Data Scientist**
-
 💡 Passionate about turning raw data into meaningful insights and building scalable data systems.
 
 I enjoy working with data pipelines, analytics, and visualization to help organizations make better decisions. My background in computer science allows me to combine **software engineering** with **data analysis** to build efficient solutions.
@@ -12,31 +8,11 @@ I enjoy working with data pipelines, analytics, and visualization to help organi
 
 ## 🛠️ Skills & Technologies
 
-**Languages:**
-
-Python • SQL
-
-**Data & Analytics:**
-
-Pandas • NumPy • Data Cleaning • Exploratory Data Analysis • Statistical Analysis
-
-**Data Engineering:**
-
-ETL Pipelines • Data Modeling • REST APIs • Data Warehousing Concepts • Pipeline Debugging
-
-**Tools & Technologies:**
-
-Git • Docker • Linux • PostgreSQL • Jupyter Notebook • Excel
-
----
-
-## 💻 Projects
-
-### [Portfolio Report](https://github.com/cbrooks-dev/portfolio-report)
-
-### [Healthcare Data Pipeline](https://github.com/cbrooks-dev/healthcare-data-pipeline)
-
-### [UVA CS Connect](https://github.com/cbrooks-dev/uva-cs-connect)
+• **Languages:** Python, SQL (PostgreSQL, MySQL), Bash, YAML
+• **Data & Platforms:** Databricks (PySpark, Spark SQL, Delta Lake, Workflows, Unity Catalog), ETL/ELT, Data Modeling (Relational, Dimensional, Medallion)
+• **BI & Visualization:** Databricks SQL Dashboards, Power BI, Excel
+• **Cloud & Infra:** AWS (EC2, S3, IAM), Terraform, Docker, Linux
+• **Tooling:** Cursor, GitHub Copilot, Git, GitHub Actions, Jira, Confluence
 
 ---
 
@@ -50,8 +26,4 @@ Git • Docker • Linux • PostgreSQL • Jupyter Notebook • Excel
 ## 📫 Contact Me
 
 - Email: connorbrooks04@yahoo.com  
-- LinkedIn: [linkedin.com/in/connor-p-brooks](https://linkedin.com/in/connor-p-brooks)  
-
----
-
-*"Striving to write clean, efficient code and learn something new every day!"*
+- LinkedIn: [linkedin.com/in/connor-p-brooks](https://linkedin.com/in/connor-p-brooks)

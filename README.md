@@ -8,11 +8,25 @@ I enjoy working with data pipelines, analytics, and visualization to help organi
 
 ## 🛠️ Skills & Technologies
 
-• **Languages:** Python, SQL (PostgreSQL, MySQL), Bash, YAML
-• **Data & Platforms:** Databricks (PySpark, Spark SQL, Delta Lake, Workflows, Unity Catalog), ETL/ELT, Data Modeling (Relational, Dimensional, Medallion)
-• **BI & Visualization:** Databricks SQL Dashboards, Power BI, Excel
-• **Cloud & Infra:** AWS (EC2, S3, IAM), Terraform, Docker, Linux
-• **Tooling:** Cursor, GitHub Copilot, Git, GitHub Actions, Jira, Confluence
+**Languages:**
+
+Python, SQL (PostgreSQL, MySQL), Bash, YAML
+
+**Data & Platforms:**
+
+Databricks (PySpark, Spark SQL, Delta Lake, Workflows, Unity Catalog), ETL/ELT, Data Modeling (Relational, Dimensional, Medallion)
+
+**BI & Visualization:**
+
+Databricks SQL Dashboards, Power BI, Excel
+
+**Cloud & Infra:**
+
+AWS (EC2, S3, IAM), Terraform, Docker, Linux
+
+**Tooling:**
+
+Cursor, GitHub Copilot, Git, GitHub Actions, Jira, Confluence
 
 ---
 
